@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+  }
+  body{
+    background-color: rgb(112, 112, 248);
+    background-size: cover;
+  }
+ 
+  section{
+    width: 50%;
+    margin: 180px 20%;
+    padding: 50px;
+    border: 20px;
+    background: rgba(141, 26, 135, 0.7);
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  h1{
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
+  input{
+    margin-left: 20px;
+    border-color: black;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  button{
+    margin:12px 0 0 30%;
+    width: 34%;
+    background: rgb(208, 161, 235);
+    border: 5px;
+    border-style: solid double solid double;
+    border-color: rgb(12, 11, 100);
+    border-radius: 5px;
+  }
+  
